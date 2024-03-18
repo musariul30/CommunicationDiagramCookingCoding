@@ -200,6 +200,12 @@ img {
   border-style: none;
 }
 
+img.komponen {
+  vertical-align: middle;
+  border-style: none;
+  padding-right: 75px;
+}
+
 svg {
   overflow: hidden;
   vertical-align: middle;
